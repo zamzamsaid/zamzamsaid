@@ -48,10 +48,14 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zamzamsaid&show_icons=true&locale=en" alt="zamzamsaid" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zamzamsaid&" alt="zamzamsaid" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zamzamsaid&show_icons=true&locale=en&layout=compact" alt="zamzamsaid" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zamzamsaid" alt="zamzamsaid" /></a></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zamzamsaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zamzamsaid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zamzamsaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zamzamsaid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

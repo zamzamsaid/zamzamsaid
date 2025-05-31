@@ -52,3 +52,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zamzamsaid&" alt="zamzamsaid" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zamzamsaid&show_icons=true&locale=en&layout=compact" alt="zamzamsaid" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zamzamsaid" alt="zamzamsaid" /></a></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---

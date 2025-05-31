@@ -2,9 +2,9 @@
 <p>Passionate Software Engineer | Experience in Frontend & Backend | Currently Exploring Data Science & AI.</p>
 
 ###
-
+<div>
 <img src="coding.gif" alt="Coding GIF" height="150" style="border-radius: 100px;" />
-  
+<img src="data" alt="Data GIF" height="150" style="border-radius: 100px;" />
 </div>
 ###
 

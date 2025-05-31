@@ -2,9 +2,8 @@
 <p>Passionate Software Engineer | Experience in Frontend & Backend | Currently Exploring Data Science & AI 👩🏻‍💻🚀.</p>
 
 <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
-  <img src="{{ asset('coding.gif') }}" height="150" style="border-radius: 100px;" />
-  <img src="{{ asset('data.gif') }}" height="150" style="border-radius: 100px;" />
-  <img src="{{ asset("let'scode.gif") }}" height="150" style="border-radius: 100px;" />
+<img src="coding.gif" alt="Coding GIF" height="150" style="border-radius: 100px;" />
+<img src="data.gif" alt="Data GIF" height="150" style="border-radius: 100px;" />
 </div>
 
 <div style="margin-top: 0px;">

@@ -1,14 +1,11 @@
 <h1>Hi 👋, I'm Zamzam Alsalti </h1>
 <p>Passionate Software Engineer | Experience in Frontend & Backend | Currently Exploring Data Science & AI 👩🏻‍💻🚀.</p>
 
-###
 <div>
 <img src="coding.gif" alt="Coding GIF" height="150" style="border-radius: 100px;" />
 <img src="data.gif" alt="Data GIF" height="150" style="border-radius: 100px;" />
   <img src="let'scode.gif" alt="Data GIF" height="150" style="border-radius: 800px;" />
 </div>
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />

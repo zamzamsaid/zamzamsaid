@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Zamzam Alsalti </h1>
-<p>Passionate Software Engineer | Experience in Frontend & Backend | Currently Exploring Data Science & AI.</p>
+<p>Passionate Software Engineer | Experience in Frontend & Backend | Currently Exploring Data Science & AI 👩🏻‍💻🚀.</p>
 
 ###
 <div>

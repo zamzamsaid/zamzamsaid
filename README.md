@@ -1,16 +1,20 @@
 <h1>Hi 👋, I'm Zamzam Alsalti </h1>
 <p>Passionate Software Engineer | Experience in Frontend & Backend | Currently Exploring Data Science & AI 👩🏻‍💻🚀.</p>
 
-<div>
-<img src="coding.gif" alt="Coding GIF" height="150" style="border-radius: 100px;" />
-<img src="data.gif" alt="Data GIF" height="150" style="border-radius: 100px;" />
-  <img src="let'scode.gif" alt="Data GIF" height="150" style="border-radius: 800px;" />
+<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
+  <img src="{{ asset('coding.gif') }}" height="150" style="border-radius: 100px;" />
+  <img src="{{ asset('data.gif') }}" height="150" style="border-radius: 100px;" />
+  <img src="{{ asset("let'scode.gif") }}" height="150" style="border-radius: 100px;" />
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
+<div style="margin-top: 0px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="margin-top: 0;" />
+  </picture>
+</div>
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>

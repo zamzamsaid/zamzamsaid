@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Zamzam Alsalti</h1>
+<h1>Hi 👋, I'm Zamzam Alsalti <img src="coding.gif" alt="Coding GIF" height="150" style="border-radius: 10px;" /></h1>
 <p>Passionate Software Engineer | Experience in Frontend & Backend | Currently Exploring Data Science & AI.</p>
 
 ###
@@ -8,7 +8,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zamzamsaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   
-  <img src="coding.gif" alt="Coding GIF" height="150" style="border-radius: 10px;" />
+  
 </div>
 
 
